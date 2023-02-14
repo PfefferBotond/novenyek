@@ -11,7 +11,7 @@ import UserData from './UserData.dto';
       host: 'localhost',
       username: 'root',
       password: '',
-      database: 'Novenyek',
+      database: 'novenyek',
       entities: [UserData],
       synchronize: true,
     }),
